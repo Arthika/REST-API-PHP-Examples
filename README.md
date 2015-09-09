@@ -1,5 +1,10 @@
 # REST-API-PHP-Examples
+This repository contains a php file  that sets up a price streaming session.
 
+## Prerequisites
+You will need a computer console or webserver with PHP.
+### How to
+Run the php program from your console
 ```sh
 Arthika $ php priceStreaming.php 
 Warning: Creating default object from empty value in /Users/fede/Work/Arthika/Development/GitHub/REST-API-PHP-Examples/priceStreaming.php on line 8
